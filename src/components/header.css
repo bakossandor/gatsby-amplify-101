@@ -1,0 +1,18 @@
+nav {
+  height: 40px;
+  background-color: white;
+  box-shadow: 1px 1px 3px #EAEDF8;
+  line-height: 40px;
+}
+nav > div > a, .signOut{
+  color: #1639BB;
+  font-size: x-large;
+  font-weight: bold;
+  text-decoration: none;
+  margin-right: 20px;
+  margin-left: 20px;
+}
+
+.signOut {
+  cursor: pointer;
+}
